@@ -6,3 +6,10 @@ prettytable
 menpo
 mxnet
 opencv-python
+numpy==1.19.5
+matplotlib==3.6.1
+pandas==1.4.4
+torchmetrics==0.11.4
+dask[array]==2022.3.0
+wandb
+scikit-learn==1.1.0
